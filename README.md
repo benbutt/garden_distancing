@@ -3,7 +3,7 @@ Python scripts to simulate social distancing in your very own (or anyone else's)
 
 Written in response to Boris Johnson's announcement on 28/05/20 that up to six people will be allowed to meet in their back garden provided "strict social distancing guidelines are followed": https://www.gov.uk/government/news/pm-six-people-can-meet-outside-under-new-measures-to-ease-lockdown.
 
-Uses a rejection method to distribute points in rectangular area with customisable exclusion distance. Requires matplotlib
+Uses a rejection method to distribute points in rectangular area with customisable exclusion distance. Requires matplotlib.
 
 --- How many friends can I fit in my garden? ---
 
