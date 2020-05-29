@@ -5,11 +5,11 @@ Written in response to Boris Johnson's announcement on 28/05/20 that up to six p
 
 Uses a rejection method to distribute points in rectangular area with customisable exclusion distance. Requires matplotlib.
 
---- How many friends can I fit in my garden? ---
+--- How many friends can I fit in my garden while maintaining "strict social distancing guidelines"? ---
 
 max_occupancy.py calculates the maximum occupancy for a given (rectangular) garden, and suggests a distribution to acheieve this occupancy.
 
---- How big does my garden need to be to invite my five friends round while still maintaining "strict social distancing guidelines"? ---
+--- How big does my garden need to be to invite my five (or more, when restrictions ease) friends round while maintaining "strict social distancing guidelines"? ---
 
 garden_size.py calculates the minimum (square) garden size required to fit the requested occupancy, and suggests a distribution to achieve this occupancy.
 
