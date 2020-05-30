@@ -13,13 +13,13 @@ min_occ = 6
 
 ## expert parameters
 
-# set garden size increment
+# set garden size increment (lower = better solutions)
 inc = 0.1
 
-# set initial number of simulations to run
+# set initial number of simulations to run (higher = better solutions)
 simulations = (x_range * y_range) * 20
 
-# set reject:accept ratio for terminate
+# set reject:accept ratio for terminate (higher = better solutions)
 ratio = 9999
 
 ### end of parameters ###
