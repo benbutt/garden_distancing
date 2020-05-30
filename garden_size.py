@@ -19,7 +19,7 @@ inc = 0.1
 # set initial number of simulations to run
 simulations = (x_range * y_range) * 20
 
-# set fraction reject:accept ratio for terminate
+# set reject:accept ratio for terminate
 ratio = 9999
 
 ### end of parameters ###
