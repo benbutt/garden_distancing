@@ -10,7 +10,7 @@ radius = 2
 
 ### expert parameters ###
 
-# set fraction reject:accept ratio for terminate (higher = better solutions)
+# set reject:accept ratio for terminate (higher = better solutions)
 ratio = 9
 
 # set number of simulations to run (higher = better solutions)
